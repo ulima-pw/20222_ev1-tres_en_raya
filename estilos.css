@@ -1,0 +1,9 @@
+.casilla {
+    height: 100px;
+    width: 100%;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+.disabled{
+    pointer-events: none;
+}
